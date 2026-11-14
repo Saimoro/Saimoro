@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Saimoro 👋
 
-<!--
-**Saimoro/Saimoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Product Analyst** focused on finding growth points through data, unit economics, and user behavior analysis. I enjoy turning raw numbers into clear business insights and automated reporting models.
 
-Here are some ideas to get you started:
+#### 📊 What I Do
+* **Product & Marketing Metrics:** Calculate and track **CR, AOV, CAC, LTV, and Retention** to evaluate product performance.
+* **Spreadsheet Modeling & Automation:** Build dynamic analytical tables, financial models, and automated reports in **Excel / Google Sheets** using advanced formulas and scripts.
+* **Funnel & Cohort Analysis:** Identify bottlenecks in user journeys and compare the efficiency of customer acquisition channels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Tech Stack & Tools
+* **Analytics & Spreadsheets:** Microsoft Excel (Formulas, Pivot Tables, Automation), Google Sheets
+* **Querying & Scripting:** SQL, Python *(Pandas, NumPy)*
+* **BI & Visualization:** Power BI, Tableau, DataLens
+
+#### 📌 Featured Work
+* *Coming soon:* E-commerce Unit Economics & WoW Metrics Model (Excel)
+
+#### 📫 Get in Touch
+* **Telegram:** [@tsikutsuz](https://t.me)

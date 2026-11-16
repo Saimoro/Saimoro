@@ -13,7 +13,7 @@ I'm a **Product Analyst** focused on finding growth points through data, unit ec
 * **BI & Visualization:** Power BI, Tableau, DataLens
 
 #### 📌 Featured Work
-* *Coming soon:* E-commerce Unit Economics & WoW Metrics Model (Excel)
+* *Coming soon:* E-commerce PawMarket & WoW Metrics Model (Excel)
 
 #### 📫 Get in Touch
 * **Telegram:** [@taikutsuz](https://t.me)

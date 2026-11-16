@@ -1,25 +1,25 @@
-### Hi there, I'm Saimoro 👋
+### Hi, I'm Saimoro 👋
 
-I'm a **Product Analyst** focused on finding growth points through data, unit economics, and user behavior analysis. I enjoy turning raw numbers into clear business insights and automated reporting models.
+I'm an **aspiring Product / Data Analyst** building practical analytical skills through structured portfolio projects. My current focus is Excel, SQL, product metrics and business analysis.
 
-### 📊 What I Do
-* **Product & Marketing Metrics:** Calculate and track **Activation Rate, LTV, CAC, Cohort Retention, and Unit Economics** to evaluate product performance.
-* **Spreadsheet Modeling & Automation:** Build dynamic analytical tables, financial models, and automated reports in **Excel / Google Sheets**.
-* **Funnel & Cohort Analysis:** Identify bottlenecks in user journeys and compare the efficiency of customer acquisition channels.
+### 📊 Current Focus
+- **Business & product metrics:** learning to work with CAC, AOV, retention, conversion, contribution and unit economics.
+- **Spreadsheet modeling:** building formula-driven Excel models, structured input tables and dashboard prototypes.
+- **SQL & data modeling:** practicing relational tables, joins, aggregation and data-quality checks.
+- **Analytical thinking:** turning a business question into measurable hypotheses and checking conclusions against data.
 
-### 🛠 Tech Stack & Tools
-* **Analytics & Spreadsheets:** Microsoft Excel (Formulas, Pivot Tables, Automation), Google Sheets
-* **Querying & Scripting:** SQL, Python *(Pandas, NumPy)*
-* **BI & Visualization:** Power BI, Tableau, DataLens
+### 🛠 Tools & Learning Path
+- **Current practice:** Microsoft Excel / Google Sheets, SQL.
+- **SQL credential:** Ministry of Digital Development certificate (advanced level); continuing to build hands-on query practice.
+- **Next learning steps:** Python (Pandas), statistics, experimentation and BI dashboarding.
 
 ### 🚀 Featured Work
-* **[Marketing Unit Economics Model](https://github.com/Saimoro/marketing-unit-economics)** — Excel-based model to evaluate marketing efficiency, paid acquisition, and cohort retention.
-* **[PawMarket Analytics](https://github.com/Saimoro/pawmarket-analytics)** — End-to-end e-commerce case study: investigating performance decline *(in progress, Phase 0: analytical design)*.
+- **[Marketing Unit Economics Model](https://github.com/Saimoro/marketing-unit-economics)** — Excel portfolio project exploring paid acquisition efficiency, unit economics and cohort metrics.
+- **[PawMarket Analytics](https://github.com/Saimoro/pawmarket-analytics)** — fictional e-commerce investigation; currently in **Phase 0 (analytical design and scenario model)**. The data and business results are synthetic.
 
-### 🎯 Current Focus
-* Open to **Junior Product / Data Analyst** roles (Remote / Hybrid).
-* Building out the PawMarket dataset and delivery operations analysis *(target completion: ~May 2026)*.
+### 🎯 Looking For
+Open to **entry-level Junior Product Analyst / Junior Data Analyst** opportunities, including remote or hybrid roles. Particularly interested in product, marketing and e-commerce analytics.
 
-### 📫 Get in Touch
-* **Telegram:** [@taikutsuz](https://t.me/taikutsuz)
-* **HH Resume:** [My profile on HeadHunter](https://hh.ru/resume/cc71d31fff1169655b0039ed1f747754794646)
+### 📫 Contact
+- **Telegram:** [@taikutsuz](https://t.me/taikutsuz)
+- **CV:** [HeadHunter profile](https://hh.ru/resume/cc71d31fff1169655b0039ed1f747754794646)

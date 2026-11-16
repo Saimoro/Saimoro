@@ -22,4 +22,4 @@ I'm a **Product Analyst** focused on finding growth points through data, unit ec
 
 ### 📫 Get in Touch
 * **Telegram:** [@taikutsuz](https://t.me/taikutsuz)
-* **HH** [https://hh.ru/resume/cc71d31fff1169655b0039ed1f747754794646]
+* **HH Resume:** [My profile on HeadHunter](https://hh.ru/resume/cc71d31fff1169655b0039ed1f747754794646)

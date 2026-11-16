@@ -18,7 +18,7 @@ I'm a **Product Analyst** focused on finding growth points through data, unit ec
 
 ### 🎯 Current Focus
 * Open to **Junior Product / Data Analyst** roles (Remote / Hybrid).
-* Building out the PawMarket dataset and delivery operations analysis *(target completion: Month YYYY)*.
+* Building out the PawMarket dataset and delivery operations analysis *(target completion: ~May 2026)*.
 
 ### 📫 Get in Touch
 * **Telegram:** [@taikutsuz](https://t.me/taikutsuz)
